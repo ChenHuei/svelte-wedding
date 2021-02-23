@@ -5,7 +5,7 @@
     class="banner-info absolute top-1/2 left-1/2 flex flex-col justify-center items-center bg-white"
   >
     <h4 class="text-3xl font-bold mb-2">Huei & Bei</h4>
-    <h4 class="text-3xl">Ｄecember, 11, 2021</h4>
+    <h4 class="text-3xl">December, 11, 2021</h4>
   </div>
 </section>
 
